@@ -1,3 +1,6 @@
+<!-- Cover Banner -->
+![HI, I'M DAMIAN](cover.png)
+
 # 💫 About Me:
 🔭 I’m currently working on a "XLF_Editor" for translation files<br>🌱 I’m currently learning machine learning with Python<br>💬 Ask me about AL & Python<br>⚡ Fun fact: “Code is like humor - if you have to explain it, it's bad. ;)”<br> 🔧 Skill: AL-Developer for Microsoft Business Central
 
