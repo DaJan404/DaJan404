@@ -11,6 +11,8 @@ Currently, I write AL code for Microsoft Dynamics 365 Business Central (yes, it�
 
 What truly matters to me is **readable, structured, and maintainable** code – not just code that works, but code that doesn't make future-me cry.  
 
+Let’s build something cool — and please follow the style guide, your teammates (and your future self) will thank you. 😉
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riffe.bindet-79@icloud.com) 
